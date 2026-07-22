@@ -1,0 +1,6 @@
+{
+  "name": "Luna Art",
+  "description": "فروشگاه آنلاین محصولات سنگ مصنوعی و شمع‌سازی دست‌ساز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
